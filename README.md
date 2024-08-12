@@ -14,6 +14,12 @@ Mentor : NEELAM HARISH
 **Overview**
 The BMI Calculator is a simple web application designed to calculate and display the Body Mass Index (BMI) based on user input for height and weight. This app helps users understand their body weight category by calculating BMI and providing feedback on whether they are underweight, normal weight, overweight, or obese.
 
+
+![Screenshot (175)](https://github.com/user-attachments/assets/2d9c4b24-108b-49d3-a427-591ccbba754d)
+
+
+
+
 **Features**
 Calculate BMI: Enter your height in centimeters and weight in kilograms to get your BMI.
 BMI Categories: Displays the BMI value and its corresponding weight category (Underweight, Normal weight, Overweight, Obese).
