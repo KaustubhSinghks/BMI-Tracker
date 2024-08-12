@@ -1,3 +1,15 @@
+Name: KAUSTUBH SINGH
+
+Company : CODTECH IT SOLUTIONS
+
+ID : CT8ML1185
+
+Domain : MACHINE LEARNING
+
+Duration : June to August 2024
+
+Mentor : NEELAM HARISH
+
 # BMI-Tracker
 **Overview**
 The BMI Calculator is a simple web application designed to calculate and display the Body Mass Index (BMI) based on user input for height and weight. This app helps users understand their body weight category by calculating BMI and providing feedback on whether they are underweight, normal weight, overweight, or obese.
